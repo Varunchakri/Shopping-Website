@@ -1,0 +1,238 @@
+
+
+
+
+/* block 1 css */
+
+
+#header{
+    margin:0px ;
+    background-color: darkviolet;
+    display: flex;
+    font-family: sans-serif ;
+    color: white;
+    
+}
+#header .heading{
+    text-align: center;
+flex-grow: 3;
+
+}
+
+ .english{
+flex-grow: 1;
+padding-top: 20px;
+
+}
+
+
+
+/* block--2--code*/
+
+
+
+#block-2{
+    display: flex;
+    padding-left: 120px;
+    padding-top: 25px;
+    gap: 125px;
+    
+}
+
+#block-2 .headingblk2{
+    
+
+}
+#block-2 .details{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    gap: 65px;
+    padding-top: 10px;
+}
+
+
+#block-2 .search-box{
+    display: flex;
+    width: 150px;
+    height: 25px;
+    padding-top: 18.5px;
+}
+
+
+
+
+
+
+
+/* block 3 csss */
+
+#list-and-image{
+    padding: 5px 30px 5px 30px;
+    display: flex;
+    font-family: sans-serif ;
+   
+    color: black;
+    line-height: 2rem;
+    
+}
+
+#list-and-image .list{
+    list-style-type: none;
+    width: 270px;
+    font-weight: bolder;
+    border-right: 2px solid grey;
+}
+
+#list-and-image .image{
+padding: 25px 15px 15px 15px;
+}
+
+
+/* block-4-code */
+
+#block-4{
+    display: flex;
+}
+
+
+#block-4 .box1{
+    border: 2px solid darkviolet;
+    width: 25px;
+    height: 10px;
+}
+
+
+/* block--5--code */
+#images{
+    
+    display: flex;
+    
+}
+
+#images .img1{
+    
+    margin: 0px 70px 0px 70px;
+
+}
+ #images .price{
+    color: darkviolet;
+ }
+
+ .button-1{
+margin-left: 500px;
+    color: white;
+    background-color: darkviolet;
+    width: 250px;
+    height: 50px;
+ }
+
+/* block---6---code */
+#images-set-2{
+display: flex;
+margin-left: 150px;
+}
+
+#images-set-2 .image--2{
+    margin-left: 20px;
+}
+
+
+/* Block---7--code */
+#images-3{
+    display: flex;
+}
+
+ .img3{
+    margin-left: 75px;
+}
+
+
+/* block-8 code-- */
+
+#block-8 {
+    display: flex;
+    font-family:  Nunito,sans-serif;
+}
+
+#block-8 .image-set-1{
+    display: flex;
+    padding-left: 185px;
+    gap: 70px;
+
+}
+
+#block-8-part-2 .image-set-1{
+    display: flex;
+    padding-left: 185px;
+    gap: 70px;
+}
+
+.block-8-button{
+margin-left: 550px;
+    color: white;
+    background-color: darkviolet;
+    width: 250px;
+    height: 50px;
+}
+
+
+/* block---10---code */
+
+
+#first-image{
+    display: flex;
+}
+
+.bottom-2-images{
+    display: flex;
+    gap: 25px;
+    padding: 10px 0px 0px 25px;
+}
+
+/* block--11--css */
+#speciality{
+    display: flex;
+}
+
+#speciality .block11
+{
+    font-family:  Nunito,sans-serif;
+    justify-content: space-around;
+    margin-left: 155px;
+    text-align: center;
+}
+
+
+
+
+/* last bllock css */
+
+#footer{
+    margin: 0;
+    background-color: darkviolet;
+    line-height: 1.9rem;
+    justify-content: space-around;
+    color: white;
+    display: flex;
+}
+
+.copyright{
+    background-color: darkviolet;
+}
+
+#footer .ul1{
+    font-family:  Nunito,sans-serif;
+    list-style-type: none;
+}
+
+.placeholder{
+    color: white;
+    border: 1px solid darkorchid;
+}
+
+.copyright{
+    height: 25px;
+    background-color: darkviolet;
+    color: white;
+}
